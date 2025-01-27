@@ -7,7 +7,7 @@
 
 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,bootstrap,mysql,git,linux,photoshop" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,nodejs,mongodb,aws,firebase,html,css,mysql,git,linux" />
 </div>
 🌱 Currently Exploring
 
